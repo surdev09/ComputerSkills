@@ -1,0 +1,123 @@
+* Atmel 
+** [[https://www.youtube.com/watch?v=HA2_pDnqcjU&list=PLtQdQmNK_0DQF5gzuUcY6GDbIIIDF5Fil][Getting Started With Atmel Studio]]
+*** A Closer Look at the Atmel Studio
+    - 'Ctrl+S' Saves the file
+    - 'Alt+G' Goto Implementation
+      - Pins of the controller are abstracted. This will help us to go
+        to the file or location, where the abstraction was made.
+*** Creating a New C Project for GCC in Atmel Studio
+*** Using the Simulator in Atmel studio
+*** 
+** [[https://www.youtube.com/watch?v=UMi6lg563BA&list=PLtQdQmNK_0DRhBWYZ32BEILOykXLpJ8tP][Getting Started With AVR]]
+*** Finding Documentation and Turning on an LED
+* Excel VBA Introduction 
+** Part 1 Getting Started in the VB Editor <2017-11-04 Sat>
+*** Working with the VB Editor 
+    - Accessing the Visual Basic Editor
+    - Switching between Applications
+    - The VB editor windows
+*** Modules
+    - Creating and Removing Modules
+    - Switching Between Modules
+    - Renaming Mordules
+    - Setting Fonts and Colors
+** Part 2 Writing Your First VBA Macro <2017-11-04 Sat>
+*** The Basics of Writing VBA Code
+    - Beginning a Subroutine
+      1. Creating a New Module
+      2. Rename module. (Spaces are not allowed)
+      3. Write keyword "Sub" followed by subroutine's name and press
+         Enter, End Sub automatically appears.
+    - Laying Out Code Neatly
+    - Writing Comments
+*** Writing VBA Instructions
+    - Basic VBA Grammar
+    - Changing the Value of Cells
+    - Formatting Cells
+*** Running VBA Code
+    - Saving Files Containing Code
+    - Running a Subroutine
+    - Reopening Files and Security
+** Part 3 What to do when things go wrong(Errors and Debugging) <2017-11-05 Sun>
+*** The Types of Error in VBA 
+    - Syntax Errors
+    - Compile Errors
+    - Runtime Errors
+*** Debugging a Subroutine
+    - Stepping through Code
+    - Setting Breakpoints
+    - The Debug Toolbar
+** Part 4 Buttons, Toolbars and Keyboard Shortcuts <2017-11-08 Wed>
+*** Assigning Keyboard Shortcuts
+*** Drawing Simple Buttons
+    - While resizing the buttons, holding down Alt will help you align
+      with the edges of the cells.
+*** Using Drawing Objects
+*** Designin Ribbon Tabs and Toolbars
+** Part 5 Selecting Cells <2017-11-08 Wed>
+*** Selecting Cells by Absolute Position
+    - Selecting Single Cells Using Range or Cells
+    - Referring to the Active Cell
+    - Selecting Multiple Cells
+    - Referring to the Selection
+    - Using Range Names
+      - Learn more on how to create a RangeName in excel.
+      - Here we will be discussing on referring to range name and not on creating.
+*** Selecting Cells Relatively
+    - Finding the End of a List
+    - Moving Up, Down, Left and Right
+    - Selecting From the Top to the Bottom of a List
+    - Selecting Entire Regions and Entire Columns
+** Part 6 Worksheets, Charts and Sheets <2017-11-09 Thu>
+*** Working with Sheets in VBA
+    - Referring to and Moving Between Sheets
+    - Selecting Single and Multiple Sheets
+    - Sheet Names, Code Names and Index Numbers
+      - How are sheets indexed?
+*** Manipulating Sheets
+    - Inserting and Deleting Sheets
+    - Copying and Moving Sheets
+    - Renaming Sheets
+    - Hiding and Unhiding Sheets
+** Part 7 Workbooks <2017-11-11 Sat>
+*** Using Workbooks in Excel VBA
+    - Referring to Workbooks
+    - Opening and Creating Workbooks
+    - Saving Workbooks
+** Part 8 Basic Variables <2017-11-11 Sat>
+*** Using Variables in VBA
+    - What are Variables?
+    - Using Non-Declared Variables
+      - If Option Explicit is used, undeclared variables can't be used.
+      - View ->Locals Window Use it to see the value of variables
+        while stepping through the code.
+    - Explicitly-Declared Variables
+      - When variables are declared, it gets added to the intellisense list.
+    - Variable Data Types
+    - Errors When Using Variables
+      - Type Mismatch
+      - Overflow (numerical limits exceeded)
+    - Changing the Scope of Variables
+** Part 9 Object Variables <2017-11-12 Sun>
+*** Using Object Variables in VBA
+    - Declaring Object Variables
+    - Using the SET Keyword
+    - Creating and Referencing Objects
+    - Using Methods to Set References
+** Part 10 Message Boxes <2017-11-13 Mon>
+*** Displaying Messages on Screen
+    - The MsgBox Function
+    - Customising Message Boxes
+    - Concatenating Strings
+    - Using Multiple Lines
+    - Reading Cell Values into Messages
+    - Asking Questions with Message Boxes 
+** Part 11.1 Input Boxes <2017-11-16 Thu>
+*** Getting User Input
+    - Displaying an Input Box
+    - Customising an Input Box
+    - Capturing the Result
+    - Cancelling from an Input Box
+    - Returning Different Data Types
+       	 
+	     
