@@ -119,6 +119,5 @@
     - Capturing the Result
     - Cancelling from an Input Box
     - Returning Different Data Types
-    - You should delete this line (This was done for testing git)
        	 
 	     
